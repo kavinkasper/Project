@@ -1,0 +1,21 @@
+<app-header></app-header>
+<img src="../assets/Meorable.png">
+
+<app-search (searching)="Onsearch($event)"></app-search>
+
+<div id="chips">
+    <h1>What We Make</h1>
+    <mat-chip-listbox #chips (change)="search(chips.value)">
+        <mat-chip-option style="margin-right: 5%; border: 2px solid rgb(7, 151, 7); background-color: whitesmoke;"
+            color="accent" value="Cakes"><span style="color: rgb(244, 103, 52);">Cakes</span></mat-chip-option>
+        <mat-chip-option style="margin-right: 5%; border: 2px solid rgb(7, 151, 7); background-color: whitesmoke;"
+            color="accent" value="Brownies"><span style="color: rgb(244, 103, 52);">Brownies</span></mat-chip-option>
+        <mat-chip-option style="margin-right: 5%; border: 2px solid rgb(7, 151, 7); background-color: whitesmoke;"
+            color="accent" value="Cookies"><span style="color: rgb(244, 103, 52);">Cookies</span></mat-chip-option>
+    </mat-chip-listbox>
+</div>
+
+<div id="cake">
+    <app-cake *ngFor="let cak of cakes" [cake]="cak"></app-cake>
+</div>
+<app-fotter></app-fotter>

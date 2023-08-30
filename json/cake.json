@@ -1,0 +1,234 @@
+{
+  "cake": [
+    {
+      "id": 1,
+      "name": "Berries Summer Cupcakes",
+      "image_url": "/assets/Berries Summer Cupcakes.jpg",
+      "description": "Cake flour, fresh strawberries, milk, baking soda, baking",
+      "rating": 4.5,
+      "price": 10,
+      "category": "Cakes",
+      "details": "Indulge in the refreshing flavors of summer with our Berries Summer Cupcake. A delightful blend of fresh berries and fluffy cake that will transport your taste buds to sunny days and picnics in the park."
+    },
+    {
+      "id": 2,
+      "name": "Brownies Different Flavor",
+      "image_url": "/assets/Brownies Different Flavor.jpg",
+      "description": "Butter, cocoa, eggs, flour, sugar",
+      "rating": 4.7,
+      "price": 15,
+      "category": "Brownies",
+      "details": "Experience the rich and decadent world of brownies with our Different Flavoured Brownies. From classic chocolate to exotic flavors, each bite is a journey into a world of delight and temptation."
+    },
+    {
+      "id": 3,
+      "name": "Butter Cookies",
+      "image_url": "/assets/Butter Cookies.jpg",
+      "description": "Egg yolks, sanding sugar, vanilla extract",
+      "rating": 3.6,
+      "price": 5,
+      "category": "Cookies",
+      "details": "Melt-in-your-mouth perfection awaits with our Butter Cookies. These delicate treats are baked to golden perfection, featuring a rich buttery taste that will leave you craving for more."
+    },
+    {
+      "id": 4,
+      "name": "Cherry Jelly Cheesecake",
+      "image_url": "/assets/Cherry Jelly Cheesecake.jpg",
+      "description": "Cream cheese, white chocolate, agar agar, amul fresh cream",
+      "rating": 5,
+      "price": 20,
+      "category": "Cakes",
+      "details": "Indulge in the divine harmony of creamy cheesecake and luscious cherry jelly. A tantalizing blend of textures and flavors that brings joy with every delightful bite."
+    },
+    {
+      "id": 5,
+      "name": "Chocolate Blueberries Cake",
+      "image_url": "/assets/Chocolate Blueberries Cake.jpg",
+      "description": "Cream cheese, sour cream, unsweetened cocoa powder",
+      "rating": 4.3,
+      "price": 15,
+      "category": "Cakes",
+      "details": "Experience velvety chocolate embracing juicy blueberries in our Chocolate Blueberries Cake. A symphony of rich flavors that embodies pure delight with every scrumptious slice."
+    },
+    {
+      "id": 6,
+      "name": "Chocolate Bonbons",
+      "image_url": "/assets/Chocolate Bonbons.jpg",
+      "description": "White chocolate, cocoa butter, dark chocolate, heavy cream",
+      "rating": 5,
+      "price": 25,
+      "category": "Cookies",
+      "details": "Discover chocolate ecstasy with our Chocolate Bonbons. Handcrafted masterpieces that melt into exquisite cocoa bliss, each bite delivers a symphony of richness and subtle sweetness, leaving you enchanted."
+    },
+    {
+      "id": 7,
+      "name": "Chocolate Cookies",
+      "image_url": "/assets/Chocolate Cookies.jpg",
+      "description": "Brown sugar, chocolate chips, egg, baking soda, vanilla",
+      "rating": 3.9,
+      "price": 10,
+      "category": "Cookies",
+      "details": "Unlock pure chocolate enchantment with our Chocolate Bonbons. Crafted to perfection, each bite reveals a delicate balance of rich cocoa and subtle sweetness, creating a divine indulgence for your senses."
+    },
+    {
+      "id": 8,
+      "name": "Chocolate Cupcake",
+      "image_url": "/assets/Chocolate Cupcake.jpg",
+      "description": "Coconut oil, brown sugar, chocolate buttercream, cocoa",
+      "rating": 4.4,
+      "price": 10,
+      "category": "Cakes",
+      "details": "Enjoy cocoa paradise with our Chocolate Cupcake. Moist cake crowned with velvety frosting, each bite is a journey into a world of rich indulgence that leaves you craving for more."
+    },
+    {
+      "id": 9,
+      "name": "Chocolate Summer Berries",
+      "image_url": "/assets/Chocolate Summer Berries.jpg",
+      "description": "Ice cream, tia maria, creative gourmet, dark chocolate",
+      "rating": 5,
+      "price": 20,
+      "category": "Cakes",
+      "details": "Increase the celebrations with our Chocolate Summer Berries Cake. Harmonious blend of rich chocolate and fresh berries captures the essence of joy in every slice, making moments unforgettable."
+    },
+    {
+      "id": 10,
+      "name": "Classic Cheesecake",
+      "image_url": "/assets/Classic Cheesecake.jpg",
+      "description": "Cream cheese, sour cream, graham cracker crumbs, lemon",
+      "rating": 5,
+      "price": 50,
+      "category": "Cakes",
+      "details": "Indulge in timeless elegance with our Classic Cheesecake. Silky and rich, each slice offers a journey into velvety delight, leaving a lasting impression of heavenly satisfaction."
+    },
+    {
+      "id": 11,
+      "name": "Cookies Cream Cake",
+      "image_url": "/assets/Cookies Cream Cake.jpg",
+      "description": "Cream cheese, sour cream, heavy whipping cream, cake",
+      "rating": 4.8,
+      "price": 25,
+      "category": "Cakes",
+      "details": "Unleash your inner monster with our Monster Cake. Playful decorations and scrumptious goodness combine to create a whimsical treat that awakens the childlike joy in every bite."
+    },
+    {
+      "id": 12,
+      "name": "Easter Cupcakes",
+      "image_url": "/assets/Easter Cupcakes.jpg",
+      "description": "Heavy whipping cream, lemon extract, food coloring",
+      "rating": 4.6,
+      "price": 15,
+      "category": "Cakes",
+      "details": "Celebrate joyous moments with our Easter Cupcakes. Delightful creations adorned with springtime charm, each bite is a sweet escape into a world of seasonal happiness and irresistible flavors."
+    },
+    {
+      "id": 13,
+      "name": "Fruit Cake",
+      "image_url": "/assets/Fruit Cake.jpg",
+      "description": "candied or dried fruit, nuts, and spices, and optionally soaked in spirits",
+      "rating": 5,
+      "price": 70,
+      "category": "Cakes",
+      "details": "Experience a symphony of fruits in our Fruit Cake. Juicy bits of nature's goodness blend harmoniously, delivering a burst of flavor in each slice, a joyful celebration of taste."
+    },
+    {
+      "id": 14,
+      "name": "Isometric chocolate brownies",
+      "image_url": "/assets/Isometric chocolate brownies.jpg",
+      "description": "Unsweetened cocoa powder, eggs, all purpose flour, vanilla",
+      "rating": 4.4,
+      "price": 15,
+      "category": "Brownies",
+      "details": "Dive into indulgence with Isometric Chocolate Brownies. Crafted to perfection, each bite unveils layers of rich cocoa, creating a delectable journey of flavors that satisfy the senses with delight."
+    },
+    {
+      "id": 15,
+      "name": "Monster Theme Cake",
+      "image_url": "/assets/Monster Theme Cake.jpg",
+      "description": "White Cake Mix, Eggs, Vegetable Oil, Water, Clear Vanilla",
+      "rating": 5,
+      "price": 80,
+      "category": "Cakes",
+      "details": "Awaken your playful side with our Monster Theme Cake. Colorful decorations and delectable layers combine for a whimsical treat that invites you to embrace the joy of every bite."
+    },
+    {
+      "id": 16,
+      "name": "Muffin Devil Horns",
+      "image_url": "/assets/Muffin Devil Horns.jpg",
+      "description": "Cocoa powder, vanilla bean paste, egg whites, dream, milk",
+      "rating": 4.1,
+      "price": 20,
+      "category": "Cakes",
+      "details": "Embrace devilish temptation with Muffin Devil Horns. A mischievous twist on classic muffins, these heavenly delights offer a sinful fusion of flavors that dance on your palate with delight."
+    },
+    {
+      "id": 17,
+      "name": "Muffin Ghost",
+      "image_url": "/assets/Muffin Ghost.jpg",
+      "description": "Sphere, cupcakes, chocolate frosting, icing",
+      "rating": 5,
+      "price": 25,
+      "category": "Cakes",
+      "details": "Summon delightful spookiness with Muffin Ghost. Fluffy and charmingly ghostly, these muffins enchant your taste buds with a hint of sweetness, making each bite a playful celebration of flavor."
+    },
+    {
+      "id": 18,
+      "name": "Pumpkin Spice Cupcakes",
+      "image_url": "/assets/Pumpkin Spice Cupcakes.jpg",
+      "description": "Cream cheese, brown sugar, pumpkin puree, cinnamon",
+      "rating": 4.9,
+      "price": 35,
+      "category": "Cakes",
+      "details": "Celebrate autumn with Pumpkin Spice Cupcakes. Warm spices meld with pumpkin-infused cake, crowned by velvety cream cheese frosting—a delightful ode to cozy moments and the season's embrace."
+    }
+  ],
+  "customerdetails": [
+    {
+      "Name": "kavin kumar S",
+      "Email": "kk@gmail.com",
+      "date": "2023-08-24T18:30:00.000Z",
+      "phonenumber": "9658741235",
+      "quantity": 0,
+      "cakename": "Brownies Different Flavor",
+      "price": 0,
+      "adress": {
+        "street": "vasantham colony",
+        "city": "chennai",
+        "state": "Tamil Nadu",
+        "zipcode": "600040"
+      },
+      "id": 1
+    },
+    {
+      "Name": "Prashanth",
+      "Email": "prasanth@gmail.com",
+      "date": "2023-08-14T18:30:00.000Z",
+      "phonenumber": "9658745896",
+      "quantity": 0,
+      "cakename": "Chocolate Cookies",
+      "price": 0,
+      "adress": {
+        "street": "gandhi nager",
+        "city": "chennai",
+        "state": "Tamil nadu",
+        "zipcode": "600050"
+      },
+      "id": 2
+    },
+    {
+      "Name": "kavin kumar S",
+      "Email": "kk@gmail.com",
+      "date": "2023-08-24T18:30:00.000Z",
+      "phonenumber": "9597184632",
+      "quantity": 5,
+      "cakename": "Berries Summer Cupcakes",
+      "price": 50,
+      "adress": {
+        "street": "gandhi nager",
+        "city": "chennai",
+        "state": "Tamil nadu",
+        "zipcode": "600020"
+      },
+      "id": 3
+    }
+  ]
+}

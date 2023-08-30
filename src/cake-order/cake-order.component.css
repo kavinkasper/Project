@@ -1,0 +1,82 @@
+.example-card {
+    height: 100%;
+    border: 2px solid rgb(238, 241, 242);
+    margin-top: -2%;
+    box-shadow: 0px 4px 10px rgba(25, 146, 246, 0.3);
+    margin-right: 15%;
+    border-radius: 15px;
+
+}
+
+.example-card img {
+    width: 92%;
+    height: 350px;
+    margin: 4%;
+    border-radius: 15px;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+#quantity {
+    text-align: center;
+    margin-top: 3%;
+
+}
+
+#quantity button {
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 15px;
+    background-color: black;
+    color: white;
+}
+
+#quantity input {
+    width: 10%;
+    text-align: center;
+    padding: 5px;
+}
+
+#price {
+    color: rgb(244, 103, 52);
+    text-align: center;
+    margin-top: 20px;
+}
+
+#form {
+    height: 100%;
+    border: 2px solid rgb(238, 241, 242);
+    margin-top: -2%;
+    box-shadow: 0px 4px 10px rgba(4, 20, 32, 0.3);
+    padding-left: 5%;
+    /* background-color: #daedf4; */
+    background-color: #ecf6f8;
+    border-radius: 15px;
+}
+
+#form1 {
+    width: 40%;
+    margin-right: 6%;
+}
+
+#form2 {
+    width: 86%;
+}
+
+#heading {
+    text-align: center;
+    margin-bottom: 4%;
+    margin-top: 3%;
+}
+
+#heading h1 {
+    font-family: serif;
+    font-style: italic;
+    text-shadow: 4px 4px 4px #aaa;
+    font-size: 48px;
+    color: rgb(141, 168, 250);
+}
+
+#button {
+    margin-left: 41%;
+}

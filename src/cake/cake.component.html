@@ -1,0 +1,21 @@
+<div class="kk">
+    <mat-card class="example-card">
+        <img mat-card-image src={{cake?.image_url}}>
+        <mat-card-header style="text-align: center;justify-content: center;">
+            <mat-card-title class="tour-title"><b>{{cake?.name}}</b></mat-card-title>
+            <mat-card-subtitle style="color: rgb(234, 117, 75);">Per piece | INR {{cake?.price}}.00</mat-card-subtitle>
+        </mat-card-header>
+        <mat-card-content style="text-align: center;justify-content: center;margin-top: 5px;">
+            <p class="tour-details"><b>INGREDIENTS:</b> {{cake?.description}}</p>
+        </mat-card-content>
+        <mat-card-actions>
+            <mat-icon color="primary" style="margin-left: 20px;" routerLink="{{cake?.id}}">shopping_cart</mat-icon>
+            <div class="ratings-container">
+                <p class="ratings-text"><b>{{cake?.rating}}</b></p>
+                <span class="star-icon">
+                    <mat-icon style="color:  #fff; font-size: 20px;">star</mat-icon>
+                </span>
+            </div>
+        </mat-card-actions>
+    </mat-card>
+</div>

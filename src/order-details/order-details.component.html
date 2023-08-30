@@ -1,0 +1,53 @@
+<app-header></app-header>
+<mat-form-field appearance="outline">
+  <mat-label style="color: black;"><mat-icon>search</mat-icon>Search</mat-label>
+  <input matInput (keyup)="applyFilter($event)" >
+</mat-form-field>
+
+<table mat-table [dataSource]="cake" matSort class="mat-elevation-z8">
+
+  <ng-container matColumnDef="id">
+    <th mat-header-cell mat-sort-header *matHeaderCellDef> No. </th>
+    <td mat-cell *matCellDef="let element"> {{element.id}} </td>
+  </ng-container>
+
+  <ng-container matColumnDef="cakename">
+    <th mat-header-cell mat-sort-header *matHeaderCellDef> Cakename </th>
+    <td mat-cell *matCellDef="let element"> {{element.cakename}} </td>
+  </ng-container>
+
+  <ng-container matColumnDef="Name">
+    <th mat-header-cell mat-sort-header *matHeaderCellDef> Name </th>
+    <td mat-cell *matCellDef="let element"> {{element.Name}} </td>
+  </ng-container>
+
+  <ng-container matColumnDef="Email">
+    <th mat-header-cell mat-sort-header *matHeaderCellDef> Email id </th>
+    <td mat-cell *matCellDef="let element"> {{element.Email}} </td>
+  </ng-container>
+
+  <ng-container matColumnDef="phonenumber">
+    <th mat-header-cell mat-sort-header *matHeaderCellDef> Phonenumber </th>
+    <td mat-cell *matCellDef="let element"> {{element.phonenumber}} </td>
+  </ng-container>
+
+  <ng-container matColumnDef="date">
+    <th mat-header-cell mat-sort-header *matHeaderCellDef> Date </th>
+    <td mat-cell *matCellDef="let element"> {{element.date}} </td>
+  </ng-container>
+
+  <ng-container matColumnDef="quantity">
+    <th mat-header-cell mat-sort-header *matHeaderCellDef> Quantity </th>
+    <td mat-cell *matCellDef="let element"> {{element.quantity}} </td>
+  </ng-container>
+
+  <ng-container matColumnDef="price">
+    <th mat-header-cell mat-sort-header *matHeaderCellDef> Price </th>
+    <td mat-cell *matCellDef="let element"> {{element.price}} </td>
+  </ng-container>
+
+  <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+  <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+</table>
+
+<mat-paginator showFirstLastButtons></mat-paginator>

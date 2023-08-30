@@ -1,0 +1,25 @@
+div {
+    margin-left: 78.5%;
+    margin-top: 3.8%;
+}
+
+div input {
+    padding: 10px;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border: 2px solid rgb(228, 177, 87);
+    border-right: 0;
+
+}
+
+div button {
+    padding: 10px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border: 0;
+    padding-right: 15px;
+    background-color: rgb(244, 103, 52);
+    color: white;
+    border: 2px solid rgb(228, 177, 87);
+    border-left: 0;
+}

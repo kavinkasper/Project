@@ -1,0 +1,10 @@
+<app-header></app-header>
+<div id="login-form">
+    <h3>If you are a Cheif head, enter your Security Code</h3>
+    <mat-form-field appearance="fill">
+        <mat-label>Enter your Security Code</mat-label>
+        <input matInput type="password" [(ngModel)]="cakeCode" placeholder="Cake Code">
+    </mat-form-field>
+    <button mat-button color="primary" (click)="activestatus()">Submit</button>
+    <h3>If you are a Visitor, <a routerLink="">click here</a></h3>
+</div>

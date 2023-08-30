@@ -1,0 +1,50 @@
+.example-card {
+  width: 300px;
+  height: auto;
+  border: 2px solid rgb(238, 241, 242);
+  margin-bottom: 20px;
+  margin-top: 20px;
+  margin-left: 50px;
+  box-shadow: 0px 4px 10px rgba(25, 146, 246, 0.3);
+  border-radius: 15px;
+
+}
+
+.kk :hover {
+  transform: scale(1.05);
+}
+
+.example-card img {
+  width: 92%;
+  height: 200px;
+  margin: 4%;
+  border-radius: 15px;
+  box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+div {
+  margin-left: 20px;
+}
+
+.ratings-container {
+  display: flex;
+  border: 1px solid #008539;
+  margin-left: 160px;
+  width: 22.5%;
+  height: 30px;
+  background-color: #008539;
+  padding-left: 8px;
+  border-radius: 5px;
+
+}
+
+.ratings-text {
+  margin-right: 5px;
+  margin-top: 5px;
+  font-size: medium;
+  color: #fff;
+}
+
+.star-icon {
+  margin-top: 5px;
+}

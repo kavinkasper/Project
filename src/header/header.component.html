@@ -1,0 +1,11 @@
+<div>
+    <mat-toolbar id="header">
+        <span style="padding-left: 20px;">Bake My Cake<mat-icon>cake</mat-icon></span>
+        <span class="example-spacer"></span>
+        <div id="icons">
+            <mat-icon style="margin-right: 30px;" routerLink="/home">home</mat-icon>
+            <mat-icon routerLink="/login" *ngIf="!loginService.loginstatus">login</mat-icon>
+            <mat-icon routerLink="" *ngIf="loginService.loginstatus">logout</mat-icon>
+        </div>
+    </mat-toolbar>
+</div>
