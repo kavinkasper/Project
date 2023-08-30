@@ -35,7 +35,7 @@
       "name": "Cherry Jelly Cheesecake",
       "image_url": "/assets/Cherry Jelly Cheesecake.jpg",
       "description": "Cream cheese, white chocolate, agar agar, amul fresh cream",
-      "rating": 5,
+      "rating": 4.9,
       "price": 20,
       "category": "Cakes",
       "details": "Indulge in the divine harmony of creamy cheesecake and luscious cherry jelly. A tantalizing blend of textures and flavors that brings joy with every delightful bite."
@@ -55,7 +55,7 @@
       "name": "Chocolate Bonbons",
       "image_url": "/assets/Chocolate Bonbons.jpg",
       "description": "White chocolate, cocoa butter, dark chocolate, heavy cream",
-      "rating": 5,
+      "rating": 4.8,
       "price": 25,
       "category": "Cookies",
       "details": "Discover chocolate ecstasy with our Chocolate Bonbons. Handcrafted masterpieces that melt into exquisite cocoa bliss, each bite delivers a symphony of richness and subtle sweetness, leaving you enchanted."
@@ -85,7 +85,7 @@
       "name": "Chocolate Summer Berries",
       "image_url": "/assets/Chocolate Summer Berries.jpg",
       "description": "Ice cream, tia maria, creative gourmet, dark chocolate",
-      "rating": 5,
+      "rating": 4.9,
       "price": 20,
       "category": "Cakes",
       "details": "Increase the celebrations with our Chocolate Summer Berries Cake. Harmonious blend of rich chocolate and fresh berries captures the essence of joy in every slice, making moments unforgettable."
@@ -95,7 +95,7 @@
       "name": "Classic Cheesecake",
       "image_url": "/assets/Classic Cheesecake.jpg",
       "description": "Cream cheese, sour cream, graham cracker crumbs, lemon",
-      "rating": 5,
+      "rating": 4.5,
       "price": 50,
       "category": "Cakes",
       "details": "Indulge in timeless elegance with our Classic Cheesecake. Silky and rich, each slice offers a journey into velvety delight, leaving a lasting impression of heavenly satisfaction."
@@ -125,7 +125,7 @@
       "name": "Fruit Cake",
       "image_url": "/assets/Fruit Cake.jpg",
       "description": "candied or dried fruit, nuts, and spices, and optionally soaked in spirits",
-      "rating": 5,
+      "rating": 4.6,
       "price": 70,
       "category": "Cakes",
       "details": "Experience a symphony of fruits in our Fruit Cake. Juicy bits of nature's goodness blend harmoniously, delivering a burst of flavor in each slice, a joyful celebration of taste."
@@ -145,7 +145,7 @@
       "name": "Monster Theme Cake",
       "image_url": "/assets/Monster Theme Cake.jpg",
       "description": "White Cake Mix, Eggs, Vegetable Oil, Water, Clear Vanilla",
-      "rating": 5,
+      "rating": 4.8,
       "price": 80,
       "category": "Cakes",
       "details": "Awaken your playful side with our Monster Theme Cake. Colorful decorations and delectable layers combine for a whimsical treat that invites you to embrace the joy of every bite."
@@ -165,7 +165,7 @@
       "name": "Muffin Ghost",
       "image_url": "/assets/Muffin Ghost.jpg",
       "description": "Sphere, cupcakes, chocolate frosting, icing",
-      "rating": 5,
+      "rating": 4.7,
       "price": 25,
       "category": "Cakes",
       "details": "Summon delightful spookiness with Muffin Ghost. Fluffy and charmingly ghostly, these muffins enchant your taste buds with a hint of sweetness, making each bite a playful celebration of flavor."
@@ -203,9 +203,9 @@
       "Email": "prasanth@gmail.com",
       "date": "2023-08-14T18:30:00.000Z",
       "phonenumber": "9658745896",
-      "quantity": 0,
+      "quantity": 5,
       "cakename": "Chocolate Cookies",
-      "price": 0,
+      "price": 50,
       "adress": {
         "street": "gandhi nager",
         "city": "chennai",
